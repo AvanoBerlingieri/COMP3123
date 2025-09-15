@@ -1,0 +1,16 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "callback promise and async await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "lab2"
+  ],
+  "author": "Avano Berlingieri",
+  "license": "ISC"
+}
