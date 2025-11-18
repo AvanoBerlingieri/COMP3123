@@ -1,0 +1,58 @@
+.container {
+    width: 95%;
+    margin: 25px auto;
+}
+
+.title {
+    background: green;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 8px;
+}
+
+.card {
+    background: lightskyblue;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.card-header {
+    background: dodgerblue;
+    color: black;
+    padding: 12px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.card-content {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 20px;
+}
+
+.card-image {
+    width: 200px;
+}
+
+.card-image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+}
+
+.card-details {
+    color: black;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.card-details p {
+    margin: 6px;
+}
